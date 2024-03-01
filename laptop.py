@@ -1,0 +1,5 @@
+print('Firm: Dell')
+print('CPU: Intel Core i5')
+print('RAM: 16Gb')
+print('Memory: 512Gb')
+print('Display: 15.6inches')

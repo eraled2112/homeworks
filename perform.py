@@ -1,0 +1,5 @@
+print('Name: Albina')
+print('Surname: Erkinbekova')
+print('Gender: Female')
+print('Age: 18')
+print('Edu: KTMU Manas')
